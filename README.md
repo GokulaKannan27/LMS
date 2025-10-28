@@ -28,5 +28,5 @@ A simple **Library Management System** built using **Java, JDBC, and MySQL**, wi
 
 ### 1️⃣ Clone the Repository
 ```bash
-
+git clone https://github.com/GokulaKannan27/LMS.git
 cd Library-Management-System
